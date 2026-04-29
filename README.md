@@ -34,3 +34,10 @@ Warning: Extracted 10 MOs, but Basis has 24 AOs.
 Writing 24 MOs to water_orca.InpOrb...
 Success! Output written to: water_orca.InpOrb
 ```
+## License
+MIT License
+
+## Acknowledgments
+Work produced with the support of a 2024 Leonardo Grant for Scientific Research and Cultural Creation, BBVA Foundation.
+
+![](Leonardo.jpg)
