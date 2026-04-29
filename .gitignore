@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test files and outputs
+*.molden
+*.input
+*.InpOrb
+*.ScfOrb
+*.HDF5
+*.h5
+
+# OS specific files
+.DS_Store
+Thumbs.db
