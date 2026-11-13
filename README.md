@@ -38,7 +38,7 @@ Success! Output written to: water_orca.InpOrb
 MIT License
 
 ## Acknowledgments
- This work was supported by **Síntesis y modelizaciòn de materiales moleculares orgánicos y metalocenos en el estado fundamental y excitado** under grant number **$$PID2021-125207NB-C31$$**.
+We thankfully acknowledge financial support from **$$PID2021-125207NB-C31$$** project of the Ministerio de Ciencia e Innovación of Spain.
 Work produced with the support of a 2024 Leonardo Grant for Scientific Research and Cultural Creation, BBVA Foundation.
 
 
